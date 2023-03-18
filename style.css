@@ -1,0 +1,114 @@
+.ho{
+    background-color: rgb(246, 252, 249);
+}
+.am{
+    background-color: rgb(246, 252, 249);
+    padding: 50px 40px;
+    border-radius: 5px;
+}
+
+.logo img{
+    height: 50px;
+    width: 150px;
+}
+.singin{
+    border: none;
+    color: aliceblue;
+    background: rgb(5, 201, 142);
+    border-radius: 16px;
+    height: 40px;
+    width: 90px;
+    margin: 5px 30px;
+    
+}
+.am img{
+height: 300px;
+width: 450px;
+}
+.am small{
+    color: red;
+    padding: 50px;
+}
+.am span{
+    color: rgb(5, 201, 142);
+}
+.am h1{
+    padding-bottom: 50px;
+}
+.am p{
+    color: gray;
+    font-size: small;
+}
+.am button{
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgb(5, 201, 142);
+}
+.jam img{
+    height: 100px;
+    width: 100px;
+  
+}
+.jam{
+text-align: center;
+margin-top: 20px;
+padding-top: 25px;
+margin-bottom: 30px;
+background-color:  rgb(246, 252, 249);
+}
+.kathal{
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+.kana{
+    text-align: center;
+    margin-top: 50px;
+}
+.pata div{
+    border: none;
+}
+.pata img{
+    padding: 15px;
+}
+.katha{
+    margin: 45px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 7px lightblue;
+}
+.pata button{
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgb(5, 201, 142);
+}
+
+.lichu img{
+    height: 100px;
+    width: 100px;
+}
+.lichu h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+
+}
+.lichu p{
+    padding-left: 40px;
+}
+
+.tal div{
+    padding: 50px;
+    margin-top: 40px;
+}
+.tal footer{
+    text-align: center;
+}
+.tal{
+    color: aliceblue;
+    background-color: rgb(1, 1, 26);
+    border-radius: 8px;
+}
+
